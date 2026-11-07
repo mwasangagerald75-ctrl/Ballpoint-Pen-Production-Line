@@ -29,7 +29,7 @@ random.seed(42)
 # ---------------------------------------------------------------------------
 COMPONENT_TYPES = ["barrel", "tip", "cartridge", "cap"]
 COLORS = {
-    "barrel":    "#3498db",
+    "barrel":    "#d62828",
     "tip":       "#9b59b6",
     "cartridge": "#2ecc71",
     "cap":       "#e74c3c",
