@@ -45,7 +45,7 @@ HEADER = "#0d1b2a"
 COMP_COLORS = {          # same as anim.py
     "barrel":    "#3498db",
     "tip":       "#9b59b6",
-    "cartridge": "#2ecc71",
+    "cartridge": "#D4AF37",
     "cap":       "#e74c3c",
     "pen":       "#f39c12",
 }
