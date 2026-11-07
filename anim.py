@@ -33,7 +33,7 @@ COLORS = {
     "tip":       "#9b59b6",
     "cartridge": "#2ecc71",
     "cap":       "#e74c3c",
-    "pen":       "#f39c12",
+    "pen":       "#D4AF37",
 }
 
 X_MAKER, X_QC, X_BIN          = 1.5, 3.5, 5.5
